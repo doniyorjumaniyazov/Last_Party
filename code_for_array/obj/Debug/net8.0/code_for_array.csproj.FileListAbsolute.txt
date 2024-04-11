@@ -1,0 +1,15 @@
+C:\Users\utm\Desktop\last аттестация\code_for_array\bin\Debug\net8.0\code_for_array.exe
+C:\Users\utm\Desktop\last аттестация\code_for_array\bin\Debug\net8.0\code_for_array.deps.json
+C:\Users\utm\Desktop\last аттестация\code_for_array\bin\Debug\net8.0\code_for_array.runtimeconfig.json
+C:\Users\utm\Desktop\last аттестация\code_for_array\bin\Debug\net8.0\code_for_array.dll
+C:\Users\utm\Desktop\last аттестация\code_for_array\bin\Debug\net8.0\code_for_array.pdb
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.AssemblyInfoInputs.cache
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.AssemblyInfo.cs
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.csproj.CoreCompileInputs.cache
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.sourcelink.json
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.dll
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\refint\code_for_array.dll
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.pdb
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\code_for_array.genruntimeconfig.cache
+C:\Users\utm\Desktop\last аттестация\code_for_array\obj\Debug\net8.0\ref\code_for_array.dll
