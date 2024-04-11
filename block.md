@@ -1,0 +1,1 @@
+* Aдресс на блок схеме  : https://app.diagrams.net/?src=about
